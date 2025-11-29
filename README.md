@@ -45,7 +45,7 @@ A fully dynamic portfolio built with:
 
 ## **Certifications**
 
-### **Microsoft Azure AI Fundamentals (AI-900)**  
+### **Microsoft Office Specialist: Excel Associate (Office 2019)**  
 Awarded during my 1st year as a BSIT student at PSAU.  
 **Credly Badge:**  
 https://www.credly.com/badges/3a8e55e3-70ef-4627-9cca-e431524a6910/public_url
