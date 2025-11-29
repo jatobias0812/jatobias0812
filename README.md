@@ -1,14 +1,14 @@
 # **Jan Andrew Tobias**  
 **BSIT Student • Aspiring Full-Stack Developer • PSAU**
 
-Hi there! 👋 I’m **Jan Andrew Tobias**, an Information Technology student passionate about building full-stack applications with **Python, Django, React, TailwindCSS, and MySQL**.
+Hi there! I’m **Jan Andrew Tobias**, an Information Technology student passionate about building full-stack applications with **Python, Django, React, TailwindCSS, and MySQL**.
 
 I enjoy creating systems that solve real problems — request portals, authentication modules, academic tools, CRUD apps, and more.  
 This GitHub serves as my portfolio of projects, achievements, and my journey as a developer.
 
 ---
 
-## 🧰 **Tech Stack**
+## **Tech Stack**
 
 ### **Frontend**
 - React  
@@ -29,21 +29,21 @@ This GitHub serves as my portfolio of projects, achievements, and my journey as 
 
 ---
 
-## 🚀 **Current Major Project**
+## **Current Major Project**
 
-### **📌 Portfolio CMS**
+### **Portfolio CMS**
 A fully dynamic portfolio built with:
 - React + Tailwind (Frontend)  
 - Django REST API (Backend)  
 - CMS for adding projects, achievements, screenshots, and tech stack  
 
 **Repos:**  
-- 🔵 Frontend → `portfolio-frontend`  
-- 🟢 Backend → `portfolio-backend`
+- Frontend → `portfolio-frontend`  
+- Backend → `portfolio-backend`
 
 ---
 
-## 🏅 **Certifications**
+## **Certifications**
 
 ### **Microsoft Azure AI Fundamentals (AI-900)**  
 Awarded during my 1st year as a BSIT student at PSAU.  
@@ -52,13 +52,13 @@ https://www.credly.com/badges/3a8e55e3-70ef-4627-9cca-e431524a6910/public_url
 
 ---
 
-## 📫 **Contact Me**
+## **Contact Me**
 - **Email:** jan.andrew.tobias015@gmail.com  
 - **GitHub:** https://github.com/jatobias0812  
 
 ---
 
-## 🌱 **Further Learning**
+## **Further Learning**
 - Django REST Framework  
 - React component architecture  
 - API design & deployment  
