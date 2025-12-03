@@ -13,33 +13,19 @@ This GitHub serves as my portfolio of projects, achievements, and my journey as 
 ### **Frontend**
 - React  
 - JavaScript  
-- TailwindCSS  
+- Bootstrap  
 - HTML & CSS  
 
 ### **Backend**
 - Python  
-- Django & Django REST Framework  
+- Django
 - Flask (for past academic systems)  
 
 ### **Database & Tools**
 - MySQL  
 - SQLite  
 - Git & GitHub  
-- VirtualBox Linux (for system deployment/testing)
-
----
-
-## **Current Major Project**
-
-### **Portfolio CMS**
-A fully dynamic portfolio built with:
-- React + Tailwind (Frontend)  
-- Django REST API (Backend)  
-- CMS for adding projects, achievements, screenshots, and tech stack  
-
-**Repos:**  
-- Frontend → `portfolio-frontend`  
-- Backend → `portfolio-backend`
+- VirtualBox Linux (for system deployment/testing) 
 
 ---
 
@@ -59,7 +45,8 @@ https://www.credly.com/badges/3a8e55e3-70ef-4627-9cca-e431524a6910/public_url
 ---
 
 ## **Further Learning**
-- Django REST Framework  
+- Django and Django REST Framework  
 - React component architecture  
 - API design & deployment  
-- Advanced Tailwind UI styling  
+- Advanced Bootstrap UI styling
+- Tailwind CSS
